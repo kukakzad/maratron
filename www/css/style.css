@@ -1,0 +1,13 @@
+/* Empty. Add your own CSS if you like */
+@font-face {
+   font-family: myFirstFont;
+   src: url(../fonts/RSU_Regular.ttf);
+}
+
+.font {
+   font-family: myFirstFont;
+}
+
+
+
+
